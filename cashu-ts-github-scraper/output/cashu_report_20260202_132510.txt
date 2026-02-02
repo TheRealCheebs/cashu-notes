@@ -1,0 +1,156 @@
+
+======================================================================
+                    CASHU-TS PROJECT REPORT
+              Generated on: 2026-02-02 13:25:10
+======================================================================
+
+--- Projects on Cashu-TS v3 (13) ---
+  ⭐ 113   | 2026-02-02 | minibits-cash/minibits_wallet                 | https://github.com/minibits-cash/minibits_wallet
+  ⭐ 45    | 2026-01-04 | satsigner/satsigner                           | https://github.com/satsigner/satsigner
+  ⭐ 38    | 2026-02-02 | hzrd149/applesauce                            | https://github.com/hzrd149/applesauce
+  ⭐ 31    | 2026-01-30 | cashubtc/coco                                 | https://github.com/cashubtc/coco
+  ⭐ 21    | 2026-02-02 | nostria-app/nostria                           | https://github.com/nostria-app/nostria
+  ⭐ 17    | 2026-02-02 | Routstr/routstr-chat                          | https://github.com/Routstr/routstr-chat
+  ⭐ 12    | 2026-01-30 | YakiHonne/web-app                             | https://github.com/YakiHonne/web-app
+  ⭐ 8     | 2026-01-28 | cashubtc/cashu-redeem                         | https://github.com/cashubtc/cashu-redeem
+  ⭐ 5     | 2025-12-25 | bordalix/paywally                             | https://github.com/bordalix/paywally
+  ⭐ 2     | 2026-01-30 | robwoodgate/cashu-for-woocommerce             | https://github.com/robwoodgate/cashu-for-woocommerce
+  ⭐ 1     | 2026-02-01 | DGEN-Technologies/dgen-ui                     | https://github.com/DGEN-Technologies/dgen-ui
+  ⭐ 1     | 2025-11-26 | gudnuf/cashu-gateway                          | https://github.com/gudnuf/cashu-gateway
+  ⭐ 0     | 2026-02-02 | wavlake/monorepo                              | https://github.com/wavlake/monorepo
+
+--- Projects on Cashu-TS v2 (With Open Upgrade PR) (3) ---
+  ⭐ 429   | 2026-01-30 | nostr-dev-kit/ndk                             | PR: https://github.com/nostr-dev-kit/ndk/pull/370
+  ⭐ 195   | 2026-02-01 | cashubtc/cashu.me                             | PR: https://github.com/cashubtc/cashu.me/pull/476
+  ⭐ 49    | 2026-02-01 | MakePrisms/agicash                            | PR: https://github.com/MakePrisms/agicash/pull/630
+
+--- Projects on Cashu-TS v2 (No Upgrade PR Found) (94) ---
+  ⭐ 7123  | 2026-02-02 | raycast/extensions                            | https://github.com/raycast/extensions
+  ⭐ 1164  | 2026-02-02 | ZeusLN/zeus                                   | https://github.com/ZeusLN/zeus
+  ⭐ 516   | 2026-01-31 | stackernews/stacker.news                      | https://github.com/stackernews/stacker.news
+  ⭐ 335   | 2026-01-21 | v0l/snort                                     | https://github.com/v0l/snort
+  ⭐ 207   | 2026-01-21 | cashubtc/eNuts                                | https://github.com/cashubtc/eNuts
+  ⭐ 204   | 2026-01-17 | hzrd149/nostrudel                             | https://github.com/hzrd149/nostrudel
+  ⭐ 123   | 2026-01-30 | coinos/coinos-server                          | https://github.com/coinos/coinos-server
+  ⭐ 93    | 2026-01-29 | shopstr-eng/shopstr                           | https://github.com/shopstr-eng/shopstr
+  ⭐ 64    | 2026-01-13 | pablof7z/olas                                 | https://github.com/pablof7z/olas
+  ⭐ 61    | 2026-01-31 | irislib/iris-client                           | https://github.com/irislib/iris-client
+  ⭐ 61    | 2026-02-01 | gandlafbtc/nutstash-wallet                    | https://github.com/gandlafbtc/nutstash-wallet
+  ⭐ 44    | 2026-01-29 | coinos/coinos-ui                              | https://github.com/coinos/coinos-ui
+  ⭐ 41    | 2025-12-04 | andotherstuff/chorus                          | https://github.com/andotherstuff/chorus
+  ⭐ 29    | 2026-01-27 | gandlafbtc/open-pleb                          | https://github.com/gandlafbtc/open-pleb
+  ⭐ 28    | 2026-01-24 | Pleb5/satshoot                                | https://github.com/Pleb5/satshoot
+  ⭐ 22    | 2026-01-15 | hzrd149/blossom-client-sdk                    | https://github.com/hzrd149/blossom-client-sdk
+  ⭐ 21    | 2026-01-11 | purrgrammer/chachi                            | https://github.com/purrgrammer/chachi
+  ⭐ 20    | 2026-01-28 | SovranBitcoin/Sovran                          | https://github.com/SovranBitcoin/Sovran
+  ⭐ 19    | 2025-12-10 | AFK-AlignedFamKernel/afk_monorepo             | https://github.com/AFK-AlignedFamKernel/afk_monorepo
+  ⭐ 19    | 2026-01-29 | cypherflow/cypherflow_ai                      | https://github.com/cypherflow/cypherflow_ai
+  ⭐ 16    | 2025-12-03 | gandlafbtc/cashu-brrr                         | https://github.com/gandlafbtc/cashu-brrr
+  ⭐ 14    | 2025-12-30 | pablof7z/highlighter                          | https://github.com/pablof7z/highlighter
+  ⭐ 12    | 2026-02-01 | Routstr/landingpage                           | https://github.com/Routstr/landingpage
+  ⭐ 11    | 2025-11-18 | DanConwayDev/gitworkshop                      | https://github.com/DanConwayDev/gitworkshop
+  ⭐ 11    | 2026-01-07 | HORNET-Storage/HORNETS-Relay-Panel            | https://github.com/HORNET-Storage/HORNETS-Relay-Panel
+  ⭐ 9     | 2026-01-22 | bitpoints-cashu/bitpoints.me                  | https://github.com/bitpoints-cashu/bitpoints.me
+  ⭐ 8     | 2025-09-01 | andotherstuff/cashu-wallet                    | https://github.com/andotherstuff/cashu-wallet
+  ⭐ 8     | 2025-11-14 | gandlafbtc/mint                               | https://github.com/gandlafbtc/mint
+  ⭐ 8     | 2026-01-23 | verse-pbc/groups_relay                        | https://github.com/verse-pbc/groups_relay
+  ⭐ 7     | 2025-08-31 | hzrd149/blob-drop                             | https://github.com/hzrd149/blob-drop
+  ⭐ 5     | 2025-10-28 | hzrd149/cherry-tree                           | https://github.com/hzrd149/cherry-tree
+  ⭐ 5     | 2026-01-01 | thebullishbitcoiner/bullishnuts               | https://github.com/thebullishbitcoiner/bullishnuts
+  ⭐ 4     | 2025-09-12 | Origami74/receipt-cash                        | https://github.com/Origami74/receipt-cash
+  ⭐ 4     | 2025-12-14 | zeSchlausKwab/wavefunc                        | https://github.com/zeSchlausKwab/wavefunc
+  ⭐ 4     | 2025-05-19 | getAlby/Vortex                                | https://github.com/getAlby/Vortex
+  ⭐ 3     | 2025-06-12 | drylikov/Frontend_real_decentralized_AI       | https://github.com/drylikov/Frontend_real_decentralized_AI
+  ⭐ 3     | 2025-05-19 | callebtc/cashu-decoder                        | https://github.com/callebtc/cashu-decoder
+  ⭐ 3     | 2025-09-28 | robwoodgate/cashu-cache                       | https://github.com/robwoodgate/cashu-cache
+  ⭐ 3     | 2025-09-20 | Egge21M/nut-bridge                            | https://github.com/Egge21M/nut-bridge
+  ⭐ 2     | 2026-02-01 | hynek-jina/linky                              | https://github.com/hynek-jina/linky
+  ⭐ 2     | 2025-08-05 | OpenTollGate/tollgate-installer               | https://github.com/OpenTollGate/tollgate-installer
+  ⭐ 2     | 2025-07-23 | lescuer97/nut-bond                            | https://github.com/lescuer97/nut-bond
+  ⭐ 2     | 2025-11-20 | silentius-satoshi/ZapTok                      | https://github.com/silentius-satoshi/ZapTok
+  ⭐ 2     | 2025-09-01 | gudnuf/cashu-proxy-tester                     | https://github.com/gudnuf/cashu-proxy-tester
+  ⭐ 2     | 2026-01-12 | Kelbie/bitchat.land                           | https://github.com/Kelbie/bitchat.land
+  ⭐ 2     | 2025-08-08 | humansinstitute/beacon-signer                 | https://github.com/humansinstitute/beacon-signer
+  ⭐ 2     | 2025-12-11 | gandlafbtc/cashu-browser-wallet               | https://github.com/gandlafbtc/cashu-browser-wallet
+  ⭐ 1     | 2025-11-27 | tenex-chat/web-client                         | https://github.com/tenex-chat/web-client
+  ⭐ 1     | 2024-11-21 | gudnuf/cornucopia                             | https://github.com/gudnuf/cornucopia
+  ⭐ 1     | 2025-09-01 | nogringo/nutzap-watcher                       | https://github.com/nogringo/nutzap-watcher
+  ⭐ 1     | 2026-01-17 | RobotsBuildingEducation/embedded-sunset       | https://github.com/RobotsBuildingEducation/embedded-sunset
+  ⭐ 1     | 2025-12-28 | OpenTollGate/tollgate-captive-portal-site     | https://github.com/OpenTollGate/tollgate-captive-portal-site
+  ⭐ 1     | 2026-01-27 | DGEN-Technologies/dgen-server                 | https://github.com/DGEN-Technologies/dgen-server
+  ⭐ 1     | 2025-11-10 | abh3po/nrpc_server                            | https://github.com/abh3po/nrpc_server
+  ⭐ 1     | 2025-07-01 | BlakeKaufman/BlitzWalletSpark                 | https://github.com/BlakeKaufman/BlitzWalletSpark
+  ⭐ 1     | 2025-04-14 | getAlby/hub-android-experiment                | https://github.com/getAlby/hub-android-experiment
+  ⭐ 1     | 2025-01-25 | hzrd149/blossom-account-server                | https://github.com/hzrd149/blossom-account-server
+  ⭐ 1     | 2026-01-05 | Egge21M/grug402                               | https://github.com/Egge21M/grug402
+  ⭐ 0     | 2025-06-24 | ritty65/CashuTestNutzap                       | https://github.com/ritty65/CashuTestNutzap
+  ⭐ 0     | 2024-12-10 | JohnZolton/TeenyGame                          | https://github.com/JohnZolton/TeenyGame
+  ⭐ 0     | 2025-06-12 | dani69654/nostr-games-client                  | https://github.com/dani69654/nostr-games-client
+  ⭐ 0     | 2025-06-07 | nogringo/nostr-battle                         | https://github.com/nogringo/nostr-battle
+  ⭐ 0     | 2025-09-08 | humansinstitute/beacon                        | https://github.com/humansinstitute/beacon
+  ⭐ 0     | 2025-10-15 | leojay-net/SLPM                               | https://github.com/leojay-net/SLPM
+  ⭐ 0     | 2025-04-24 | YadlaMani/shopstr-bsoc                        | https://github.com/YadlaMani/shopstr-bsoc
+  ⭐ 0     | 2025-09-01 | GautamBytes/shopstr-competency-test           | https://github.com/GautamBytes/shopstr-competency-test
+  ⭐ 0     | 2026-02-02 | Codepocketdev/satoshi-pay-wallet              | https://github.com/Codepocketdev/satoshi-pay-wallet
+  ⭐ 0     | 2026-01-10 | tenex-chat/web-svelte                         | https://github.com/tenex-chat/web-svelte
+  ⭐ 0     | 2026-01-31 | PlebeiusGaragicus/plebtap                     | https://github.com/PlebeiusGaragicus/plebtap
+  ⭐ 0     | 2026-02-02 | wavlake/web-client                            | https://github.com/wavlake/web-client
+  ⭐ 0     | 2025-09-06 | anhernsarsalor/animestr-frontend              | https://github.com/anhernsarsalor/animestr-frontend
+  ⭐ 0     | 2025-06-05 | stevejoels54/shopstr-payment-escrow           | https://github.com/stevejoels54/shopstr-payment-escrow
+  ⭐ 0     | 2025-12-01 | islandbitcoin/react-native.cashu.me           | https://github.com/islandbitcoin/react-native.cashu.me
+  ⭐ 0     | 2025-07-01 | sats-app/link                                 | https://github.com/sats-app/link
+  ⭐ 0     | 2025-05-16 | bilthon/satstreamer                           | https://github.com/bilthon/satstreamer
+  ⭐ 0     | 2025-04-23 | Wali05/shpstr-cptest                          | https://github.com/Wali05/shpstr-cptest
+  ⭐ 0     | 2025-10-07 | futurepaul/wally                              | https://github.com/futurepaul/wally
+  ⭐ 0     | 2025-09-01 | nogringo/donut                                | https://github.com/nogringo/donut
+  ⭐ 0     | 2025-10-29 | Kelbie/402.markets                            | https://github.com/Kelbie/402.markets
+  ⭐ 0     | 2025-04-23 | Muhangi2/paymentescrow                        | https://github.com/Muhangi2/paymentescrow
+  ⭐ 0     | 2025-09-26 | humansinstitute/nctool                        | https://github.com/humansinstitute/nctool
+  ⭐ 0     | 2025-10-16 | EDOHWARES/micropay                            | https://github.com/EDOHWARES/micropay
+  ⭐ 0     | 2025-06-05 | vstabile/loudr                                | https://github.com/vstabile/loudr
+  ⭐ 0     | 2025-09-16 | gudnuf/cashu-address                          | https://github.com/gudnuf/cashu-address
+  ⭐ 0     | 2025-12-31 | PerceptLabs/mvmnt                             | https://github.com/PerceptLabs/mvmnt
+  ⭐ 0     | 2025-10-31 | dtdannen/strfry-ecash-plugin-dvm-demo         | https://github.com/dtdannen/strfry-ecash-plugin-dvm-demo
+  ⭐ 0     | 2025-04-25 | abhijit9040/shopstr-compentency-test          | https://github.com/abhijit9040/shopstr-compentency-test
+  ⭐ 0     | 2025-09-01 | Egge21M/almnd                                 | https://github.com/Egge21M/almnd
+  ⭐ 0     | 2025-07-05 | matijaoe/nutlet                               | https://github.com/matijaoe/nutlet
+  ⭐ 0     | 2025-05-18 | miladsoft/my-cashu-app                        | https://github.com/miladsoft/my-cashu-app
+  ⭐ 0     | 2026-01-12 | PerceptLabs/nostril                           | https://github.com/PerceptLabs/nostril
+  ⭐ 0     | 2025-09-01 | Egge21M/chestnut-app                          | https://github.com/Egge21M/chestnut-app
+  ⭐ 0     | 2025-04-23 | shivansh-bhatnagar18/shopstr-compentency-test | https://github.com/shivansh-bhatnagar18/shopstr-compentency-test
+  ⭐ 0     | 2025-03-03 | gandlafbtc/gandlaf-homepage                   | https://github.com/gandlafbtc/gandlaf-homepage
+
+--- Projects on Cashu-TS v1 or Older (Deprecated) (23) ---
+  ⭐ 255   | 2026-02-02 | PrimalHQ/primal-web-app                       | Using: @cashu/cashu-ts      | https://github.com/PrimalHQ/primal-web-app
+  ⭐ 58    | 2025-11-30 | starbackr-com/current                         | Using: @cashu/cashu-ts      | https://github.com/starbackr-com/current
+  ⭐ 47    | 2026-01-16 | cashubtc/npubcash-server                      | Using: @cashu/cashu-ts      | https://github.com/cashubtc/npubcash-server
+  ⭐ 25    | 2026-01-26 | gandlafbtc/proxnut                            | Using: @cashu/cashu-ts      | https://github.com/gandlafbtc/proxnut
+  ⭐ 16    | 2026-01-27 | Routstr/otrta-client                          | Using: @cashu/cashu-ts      | https://github.com/Routstr/otrta-client
+  ⭐ 15    | 2025-10-06 | hzrd149/chessnut                              | Using: @cashu/cashu-ts      | https://github.com/hzrd149/chessnut
+  ⭐ 10    | 2025-09-26 | zmeyer44/flare                                | Using: @cashu/cashu-ts      | https://github.com/zmeyer44/flare
+  ⭐ 9     | 2025-09-01 | ebrakke/cashu-wallet                          | Using: @cashu/cashu-ts      | https://github.com/ebrakke/cashu-wallet
+  ⭐ 7     | 2025-07-07 | gandlafbtc/cashu-tools                        | Using: @cashu/cashu-ts      | https://github.com/gandlafbtc/cashu-tools
+  ⭐ 5     | 2024-03-16 | gudnuf/nutty-nwc                              | Using: @cashu/cashu-ts      | https://github.com/gudnuf/nutty-nwc
+  ⭐ 3     | 2025-09-01 | CashuProjects/wallet-extension                | Using: @cashu/cashu-ts      | https://github.com/CashuProjects/wallet-extension
+  ⭐ 2     | 2025-11-24 | robwoodgate/nostrly                           | Using: @cashu/cashu-ts      | https://github.com/robwoodgate/nostrly
+  ⭐ 2     | 2024-08-18 | CashuProjects/acorn-core                      | Using: @cashu/cashu-ts      | https://github.com/CashuProjects/acorn-core
+  ⭐ 1     | 2024-06-18 | pdcolandrea/CashuWallet                       | Using: @cashu/cashu-ts      | https://github.com/pdcolandrea/CashuWallet
+  ⭐ 1     | 2024-01-04 | gandlafbtc/headless-cashu                     | Using: @cashu/cashu-ts      | https://github.com/gandlafbtc/headless-cashu
+  ⭐ 0     | 2024-12-05 | gzuuus/cba                                    | Using: @cashu/cashu-ts      | https://github.com/gzuuus/cba
+  ⭐ 0     | 2025-12-02 | Chandan-codedidea/crays-web                   | Using: @cashu/cashu-ts      | https://github.com/Chandan-codedidea/crays-web
+  ⭐ 0     | 2025-09-01 | Kodylow/402-router-starter                    | Using: @cashu/cashu-ts      | https://github.com/Kodylow/402-router-starter
+  ⭐ 0     | 2024-01-25 | sebdeveloper6952/featurestr-bountiestr        | Using: @cashu/cashu-ts      | https://github.com/sebdeveloper6952/featurestr-bountiestr
+  ⭐ 0     | 2025-05-06 | nostrplatform/primal                          | Using: @cashu/cashu-ts      | https://github.com/nostrplatform/primal
+  ⭐ 0     | 2025-10-30 | Chandan-codedidea/primal-web-app              | Using: @cashu/cashu-ts      | https://github.com/Chandan-codedidea/primal-web-app
+  ⭐ 0     | 2025-04-18 | drstrox/Shopstr-Payment-Escrow-Competency-Test | Using: @cashu/cashu-ts      | https://github.com/drstrox/Shopstr-Payment-Escrow-Competency-Test
+  ⭐ 0     | 2023-12-15 | dipunm/Nutshell                               | Using: @cashu/cashu-ts      | https://github.com/dipunm/Nutshell
+
+--- Projects Where No Cashu Dependency Was Found (3) ---
+  ⭐ 97    | 2026-01-29 | cashubtc/cashu-ts                             | https://github.com/cashubtc/cashu-ts
+  ⭐ 0     | 2024-11-20 | gudnuf/cashu-react                            | https://github.com/gudnuf/cashu-react
+  ⭐ 0     | 2025-09-29 | ritty65/Fundstr                               | https://github.com/ritty65/Fundstr
+
+--- Projects That Could Not Be Processed (Errors) (0) ---
+  (None)
+
+======================================================================

@@ -1,0 +1,662 @@
+[
+  {
+    "repo_name": "raycast/extensions",
+    "file_path": "extensions/vortex/package.json"
+  },
+  {
+    "repo_name": "nostr-dev-kit/ndk",
+    "file_path": "wallet/package.json"
+  },
+  {
+    "repo_name": "stackernews/stacker.news",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/cashu-ts",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "AFK-AlignedFamKernel/afk_monorepo",
+    "file_path": "apps/pwa/package.json"
+  },
+  {
+    "repo_name": "pablof7z/olas",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "v0l/snort",
+    "file_path": "packages/app/package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/cashu-tools",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "shopstr-eng/shopstr",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/eNuts",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gzuuus/cba",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "MakePrisms/agicash",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cypherflow/cypherflow_ai",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "CashuProjects/wallet-extension",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "AbdelStark/rod",
+    "file_path": "apps/web/package.json"
+  },
+  {
+    "repo_name": "ZeusLN/zeus",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/cashu-react",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "DGEN-Technologies/dgen-ui",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/open-pleb",
+    "file_path": "packages/admin-frontend/package.json"
+  },
+  {
+    "repo_name": "PrimalHQ/primal-web-app",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "DanConwayDev/gitworkshop",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "coinos/coinos-ui",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Origami74/nostr-epoxy-reverse-proxy",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "coinos/coinos-server",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/cherry-tree",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "ritty65/CashuTestNutzap",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "JohnZolton/TeenyGame",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "dani69654/nostr-games-client",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Origami74/swiss-dashboard",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/blossom-client-sdk",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nogringo/nostr-battle",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "humansinstitute/beacon",
+    "file_path": "api/package.json"
+  },
+  {
+    "repo_name": "hzrd149/applesauce",
+    "file_path": "apps/examples/package.json"
+  },
+  {
+    "repo_name": "wavlake/monorepo",
+    "file_path": "e2e/package.json"
+  },
+  {
+    "repo_name": "zmeyer44/flare",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/nostrudel",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "bordalix/paywally",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nostria-app/nostria",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "andotherstuff/cashu-wallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Michilis/cashu-redeem-api",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "pdcolandrea/CashuWallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/nutty-nwc",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Chandan-codedidea/crays-web",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "RobotsBuildingEducation/embedded-rox",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "bitpoints-cashu/bitpoints.me",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "leojay-net/SLPM",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "andotherstuff/chorus",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "ebrakke/cashu-wallet",
+    "file_path": "packages/web/package.json"
+  },
+  {
+    "repo_name": "tenex-chat/web-client",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "YadlaMani/shopstr-bsoc",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Kodylow/402-router-starter",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "drylikov/Frontend_real_decentralized_AI",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "GautamBytes/shopstr-competency-test",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Codepocketdev/satoshi-pay-wallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/cornucopia",
+    "file_path": "packages/cornucopia/package.json"
+  },
+  {
+    "repo_name": "tenex-chat/web-svelte",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Gudnessuche/CashuWallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Routstr/routstr-chat",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "starbackr-com/current",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "PlebeiusGaragicus/plebtap",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/cashu-brrr",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "ritty65/Fundstr",
+    "file_path": "src/lib/cashu-ts/package.json"
+  },
+  {
+    "repo_name": "hynek-jina/linky",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "iefanx/RefSys",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Origami74/receipt-cash",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "wavlake/web-client",
+    "file_path": "packages/nostr-wallet/package.json"
+  },
+  {
+    "repo_name": "SovranBitcoin/Sovran",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "RobotsBuildingEducation/RobotsBuildingEducation",
+    "file_path": "app/package.json"
+  },
+  {
+    "repo_name": "irislib/iris-client",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/proxnut",
+    "file_path": "dashboard/package.json"
+  },
+  {
+    "repo_name": "satsigner/satsigner",
+    "file_path": "apps/mobile/package.json"
+  },
+  {
+    "repo_name": "robwoodgate/cashu-for-woocommerce",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "callebtc/cashu-decoder",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "pablof7z/nutsack-mobile",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "OpenTollGate/tollgate-installer",
+    "file_path": "docs/reference-ui-captive-portal/package.json"
+  },
+  {
+    "repo_name": "pablof7z/highlighter",
+    "file_path": "apps/web/package.json"
+  },
+  {
+    "repo_name": "anhernsarsalor/animestr-frontend",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "lescuer97/nut-bond",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "zeSchlausKwab/wavefunc",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "stevejoels54/shopstr-payment-escrow",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nogringo/nutzap-watcher",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nfa1/LeetMigo",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "silentius-satoshi/ZapTok",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "islandbitcoin/react-native.cashu.me",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/blob-drop",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "leojay-net/SLPM-V2",
+    "file_path": "sdk/package.json"
+  },
+  {
+    "repo_name": "sats-app/link",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "CashuMints-space/CashuMints-Telegram-bot",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "bilthon/satstreamer",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Wali05/shpstr-cptest",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "DUCAT-UNIT/unit-cashu-mint",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "sebdeveloper6952/featurestr-bountiestr",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "robwoodgate/cashu-cache",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "getAlby/Vortex",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/nutstash-wallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/npubcash-server",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "YakiHonne/web-app",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Routstr/landingpage",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "futurepaul/wally",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/headless-cashu",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "RUNSTR-LLC/RUNSTR-REWARDS",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nogringo/donut",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/chestnut",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/cashu-gateway",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "RobotsBuildingEducation/progr.ai",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/cashu-redeem",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Kelbie/402.markets",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/pine-pos",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Muhangi2/paymentescrow",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "humansinstitute/nctool",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "EDOHWARES/micropay",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "vstabile/loudr",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "wavlake/poc-ecash",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/cashu-address",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "nostrplatform/primal",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "RobotsBuildingEducation/embedded-sunset",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "OpenTollGate/tollgate-captive-portal-site",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "PerceptLabs/mvmnt",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "dtdannen/strfry-ecash-plugin-dvm-demo",
+    "file_path": "webapp/package.json"
+  },
+  {
+    "repo_name": "gudnuf/cashu-proxy-tester",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "pablof7z/threads",
+    "file_path": "apps/app/package.json"
+  },
+  {
+    "repo_name": "abhijit9040/shopstr-compentency-test",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Routstr/otrta-client",
+    "file_path": "ui/package.json"
+  },
+  {
+    "repo_name": "RobotsBuildingEducation/civico",
+    "file_path": "civico/package.json"
+  },
+  {
+    "repo_name": "DGEN-Technologies/dgen-server",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Kelbie/bitchat.land",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Chandan-codedidea/primal-web-app",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/nut-smasher",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "humansinstitute/beacon-signer",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/mint",
+    "file_path": "packages/backend/package.json"
+  },
+  {
+    "repo_name": "Egge21M/nutcoder",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/nut-bridge",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/almnd",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "robwoodgate/nostrly",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/coco",
+    "file_path": "packages/core/package.json"
+  },
+  {
+    "repo_name": "cashubtc/cashu.me",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "minibits-cash/minibits_wallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "purrgrammer/chachi",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "abh3po/nrpc_server",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "BlakeKaufman/BlitzWalletSpark",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "ngmisl/deez-cashus",
+    "file_path": "frontend/package.json"
+  },
+  {
+    "repo_name": "Pleb5/satshoot",
+    "file_path": "apps/satshoot/package.json"
+  },
+  {
+    "repo_name": "drstrox/Shopstr-Payment-Escrow-Competency-Test",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "getAlby/hub-android-experiment",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "matijaoe/nutlet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/chessnut",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "CashuProjects/acorn-core",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/tiny-pine",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "HORNET-Storage/HORNETS-Relay-Panel",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/cashu-browser-wallet",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "hzrd149/blossom-account-server",
+    "file_path": "ui/package.json"
+  },
+  {
+    "repo_name": "Egge21M/npubcash-umbrel",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/bolt12-covenant-zapper",
+    "file_path": "app/package.json"
+  },
+  {
+    "repo_name": "miladsoft/my-cashu-app",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "dipunm/Nutshell",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "PerceptLabs/nostril",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "verse-pbc/groups_relay",
+    "file_path": "frontend/package.json"
+  },
+  {
+    "repo_name": "Egge21M/chestnut-app",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gudnuf/btcpp_2024_ecash_workshop",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "cashubtc/npubcash-website",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "Egge21M/grug402",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "shivansh-bhatnagar18/shopstr-compentency-test",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "iefanx/serverless-function",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "thebullishbitcoiner/bullishnuts",
+    "file_path": "package.json"
+  },
+  {
+    "repo_name": "gandlafbtc/gandlaf-homepage",
+    "file_path": "package.json"
+  }
+]

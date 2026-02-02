@@ -1,0 +1,1313 @@
+{
+  "raycast/extensions": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2021-09-21",
+    "updated_at": "2026-02-02"
+  },
+  "nostr-dev-kit/ndk": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1",
+    "major_version": 2,
+    "created_at": "2023-03-16",
+    "updated_at": "2026-01-30"
+  },
+  "stackernews/stacker.news": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2021-06-28",
+    "updated_at": "2026-01-31"
+  },
+  "cashubtc/cashu-ts": {
+    "status": "not_found",
+    "created_at": "2023-01-29",
+    "updated_at": "2026-01-29"
+  },
+  "AFK-AlignedFamKernel/afk_monorepo": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.4.1",
+    "major_version": 2,
+    "created_at": "2024-08-04",
+    "updated_at": "2025-12-10"
+  },
+  "pablof7z/olas": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2024-11-14",
+    "updated_at": "2026-01-13"
+  },
+  "v0l/snort": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2022-12-18",
+    "updated_at": "2026-01-21"
+  },
+  "gandlafbtc/cashu-tools": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.7.0",
+    "major_version": 0,
+    "created_at": "2023-02-13",
+    "updated_at": "2025-07-07"
+  },
+  "shopstr-eng/shopstr": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.1.0",
+    "major_version": 2,
+    "created_at": "2023-04-15",
+    "updated_at": "2026-01-29"
+  },
+  "cashubtc/eNuts": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2023-06-04",
+    "updated_at": "2026-01-21"
+  },
+  "gzuuus/cba": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "github:cashubtc/cashu-ts#locktime",
+    "major_version": null,
+    "created_at": "2024-12-02",
+    "updated_at": "2024-12-05"
+  },
+  "MakePrisms/agicash": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.6.0",
+    "major_version": 2,
+    "created_at": "2024-02-01",
+    "updated_at": "2026-02-01"
+  },
+  "cypherflow/cypherflow_ai": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.1.0",
+    "major_version": 2,
+    "created_at": "2025-05-29",
+    "updated_at": "2026-01-29"
+  },
+  "CashuProjects/wallet-extension": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.2-rc.7",
+    "major_version": 0,
+    "created_at": "2023-08-31",
+    "updated_at": "2025-09-01"
+  },
+  "AbdelStark/rod": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0-3",
+    "major_version": 1,
+    "created_at": "2024-09-13",
+    "updated_at": "2024-09-25"
+  },
+  "ZeusLN/zeus": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.4.1",
+    "major_version": 2,
+    "created_at": "2019-02-16",
+    "updated_at": "2026-02-02"
+  },
+  "gudnuf/cashu-react": {
+    "status": "not_found",
+    "created_at": "2024-11-16",
+    "updated_at": "2024-11-20"
+  },
+  "DGEN-Technologies/dgen-ui": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.0.0",
+    "major_version": 3,
+    "created_at": "2025-10-28",
+    "updated_at": "2026-02-01"
+  },
+  "gandlafbtc/open-pleb": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-07",
+    "updated_at": "2026-01-27"
+  },
+  "PrimalHQ/primal-web-app": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "0.9.0",
+    "major_version": 0,
+    "created_at": "2023-01-27",
+    "updated_at": "2026-02-02"
+  },
+  "DanConwayDev/gitworkshop": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2023-12-05",
+    "updated_at": "2025-11-18"
+  },
+  "coinos/coinos-ui": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.1",
+    "major_version": 2,
+    "created_at": "2022-07-20",
+    "updated_at": "2026-01-29"
+  },
+  "Origami74/nostr-epoxy-reverse-proxy": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.2.1",
+    "major_version": 1,
+    "created_at": "2024-10-19",
+    "updated_at": "2025-03-29"
+  },
+  "coinos/coinos-server": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2017-01-22",
+    "updated_at": "2026-01-30"
+  },
+  "hzrd149/cherry-tree": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.3",
+    "major_version": 2,
+    "created_at": "2024-11-07",
+    "updated_at": "2025-10-28"
+  },
+  "ritty65/CashuTestNutzap": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc3",
+    "major_version": 2,
+    "created_at": "2025-06-24",
+    "updated_at": "2025-06-24"
+  },
+  "JohnZolton/TeenyGame": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0",
+    "major_version": 2,
+    "created_at": "2024-11-06",
+    "updated_at": "2024-12-10"
+  },
+  "dani69654/nostr-games-client": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-06-12",
+    "updated_at": "2025-06-12"
+  },
+  "Origami74/swiss-dashboard": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.2.1",
+    "major_version": 1,
+    "created_at": "2024-11-01",
+    "updated_at": "2025-01-31"
+  },
+  "hzrd149/blossom-client-sdk": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.3",
+    "major_version": 2,
+    "created_at": "2024-02-20",
+    "updated_at": "2026-01-15"
+  },
+  "nogringo/nostr-battle": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-06-07",
+    "updated_at": "2025-06-07"
+  },
+  "humansinstitute/beacon": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-20",
+    "updated_at": "2025-09-08"
+  },
+  "hzrd149/applesauce": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.2.2",
+    "major_version": 3,
+    "created_at": "2024-09-23",
+    "updated_at": "2026-02-02"
+  },
+  "wavlake/monorepo": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.3.0",
+    "major_version": 3,
+    "created_at": "2025-07-23",
+    "updated_at": "2026-02-02"
+  },
+  "zmeyer44/flare": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.2-rc.7",
+    "major_version": 0,
+    "created_at": "2023-12-05",
+    "updated_at": "2025-09-26"
+  },
+  "hzrd149/nostrudel": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.8.1",
+    "major_version": 2,
+    "created_at": "2022-12-23",
+    "updated_at": "2026-01-17"
+  },
+  "bordalix/paywally": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.2.1",
+    "major_version": 3,
+    "created_at": "2024-12-14",
+    "updated_at": "2025-12-25"
+  },
+  "nostria-app/nostria": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.2.2",
+    "major_version": 3,
+    "created_at": "2025-04-06",
+    "updated_at": "2026-02-02"
+  },
+  "andotherstuff/cashu-wallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-20",
+    "updated_at": "2025-09-01"
+  },
+  "Michilis/cashu-redeem-api": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2025-05-31",
+    "updated_at": "2025-07-19"
+  },
+  "pdcolandrea/CashuWallet": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.0-rc.3",
+    "major_version": 0,
+    "created_at": "2023-05-18",
+    "updated_at": "2024-06-18"
+  },
+  "gudnuf/nutty-nwc": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.9.0",
+    "major_version": 0,
+    "created_at": "2024-03-07",
+    "updated_at": "2024-03-16"
+  },
+  "Chandan-codedidea/crays-web": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "0.9.0",
+    "major_version": 0,
+    "created_at": "2025-10-31",
+    "updated_at": "2025-12-02"
+  },
+  "RobotsBuildingEducation/embedded-rox": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.5",
+    "major_version": 1,
+    "created_at": "2024-10-06",
+    "updated_at": "2025-09-04"
+  },
+  "bitpoints-cashu/bitpoints.me": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.7.4",
+    "major_version": 2,
+    "created_at": "2025-10-18",
+    "updated_at": "2026-01-22"
+  },
+  "leojay-net/SLPM": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-09-23",
+    "updated_at": "2025-10-15"
+  },
+  "andotherstuff/chorus": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-20",
+    "updated_at": "2025-12-04"
+  },
+  "ebrakke/cashu-wallet": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.9.0",
+    "major_version": 0,
+    "created_at": "2024-03-06",
+    "updated_at": "2025-09-01"
+  },
+  "tenex-chat/web-client": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.6.0",
+    "major_version": 2,
+    "created_at": "2025-08-08",
+    "updated_at": "2025-11-27"
+  },
+  "YadlaMani/shopstr-bsoc": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-04-24",
+    "updated_at": "2025-04-24"
+  },
+  "Kodylow/402-router-starter": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.2-rc.7",
+    "major_version": 0,
+    "created_at": "2024-01-11",
+    "updated_at": "2025-09-01"
+  },
+  "drylikov/Frontend_real_decentralized_AI": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-06-12",
+    "updated_at": "2025-06-12"
+  },
+  "GautamBytes/shopstr-competency-test": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-03-30",
+    "updated_at": "2025-09-01"
+  },
+  "Codepocketdev/satoshi-pay-wallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.4",
+    "major_version": 2,
+    "created_at": "2025-12-31",
+    "updated_at": "2026-02-02"
+  },
+  "gudnuf/cornucopia": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc1",
+    "major_version": 2,
+    "created_at": "2024-11-10",
+    "updated_at": "2024-11-21"
+  },
+  "tenex-chat/web-svelte": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2025-10-16",
+    "updated_at": "2026-01-10"
+  },
+  "Gudnessuche/CashuWallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.3",
+    "major_version": 1,
+    "created_at": "2024-05-17",
+    "updated_at": "2024-12-01"
+  },
+  "Routstr/routstr-chat": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.1.1",
+    "major_version": 3,
+    "created_at": "2025-05-17",
+    "updated_at": "2026-02-02"
+  },
+  "starbackr-com/current": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.0-rc.6",
+    "major_version": 0,
+    "created_at": "2023-01-09",
+    "updated_at": "2025-11-30"
+  },
+  "PlebeiusGaragicus/plebtap": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.6.0",
+    "major_version": 2,
+    "created_at": "2026-01-14",
+    "updated_at": "2026-01-31"
+  },
+  "gandlafbtc/cashu-brrr": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc4",
+    "major_version": 2,
+    "created_at": "2023-07-12",
+    "updated_at": "2025-12-03"
+  },
+  "ritty65/Fundstr": {
+    "status": "not_found",
+    "created_at": "2025-05-21",
+    "updated_at": "2025-09-29"
+  },
+  "hynek-jina/linky": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.3",
+    "major_version": 2,
+    "created_at": "2026-01-02",
+    "updated_at": "2026-02-01"
+  },
+  "iefanx/RefSys": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-11-25",
+    "updated_at": "2024-12-06"
+  },
+  "Origami74/receipt-cash": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-03-29",
+    "updated_at": "2025-09-12"
+  },
+  "wavlake/web-client": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.0",
+    "major_version": 2,
+    "created_at": "2026-01-29",
+    "updated_at": "2026-02-02"
+  },
+  "SovranBitcoin/Sovran": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.7.2",
+    "major_version": 2,
+    "created_at": "2024-12-05",
+    "updated_at": "2026-01-28"
+  },
+  "RobotsBuildingEducation/RobotsBuildingEducation": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.5",
+    "major_version": 1,
+    "created_at": "2023-03-13",
+    "updated_at": "2025-11-24"
+  },
+  "irislib/iris-client": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2024-10-17",
+    "updated_at": "2026-01-31"
+  },
+  "gandlafbtc/proxnut": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.1",
+    "major_version": 0,
+    "created_at": "2023-05-29",
+    "updated_at": "2026-01-26"
+  },
+  "satsigner/satsigner": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.0.0",
+    "major_version": 3,
+    "created_at": "2022-11-09",
+    "updated_at": "2026-01-04"
+  },
+  "robwoodgate/cashu-for-woocommerce": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.2.2",
+    "major_version": 3,
+    "created_at": "2026-01-16",
+    "updated_at": "2026-01-30"
+  },
+  "callebtc/cashu-decoder": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-04-18",
+    "updated_at": "2025-05-19"
+  },
+  "pablof7z/nutsack-mobile": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-10-21",
+    "updated_at": "2024-10-21"
+  },
+  "OpenTollGate/tollgate-installer": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.2",
+    "major_version": 2,
+    "created_at": "2025-05-04",
+    "updated_at": "2025-08-05"
+  },
+  "pablof7z/highlighter": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.0.0",
+    "major_version": 2,
+    "created_at": "2024-04-05",
+    "updated_at": "2025-12-30"
+  },
+  "anhernsarsalor/animestr-frontend": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.1",
+    "major_version": 2,
+    "created_at": "2025-06-11",
+    "updated_at": "2025-09-06"
+  },
+  "lescuer97/nut-bond": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-04",
+    "updated_at": "2025-07-23"
+  },
+  "zeSchlausKwab/wavefunc": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.7.4",
+    "major_version": 2,
+    "created_at": "2025-02-15",
+    "updated_at": "2025-12-14"
+  },
+  "stevejoels54/shopstr-payment-escrow": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-25",
+    "updated_at": "2025-06-05"
+  },
+  "nogringo/nutzap-watcher": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-25",
+    "updated_at": "2025-09-01"
+  },
+  "nfa1/LeetMigo": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.1",
+    "major_version": 1,
+    "created_at": "2024-03-20",
+    "updated_at": "2025-02-25"
+  },
+  "silentius-satoshi/ZapTok": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-07-06",
+    "updated_at": "2025-11-20"
+  },
+  "islandbitcoin/react-native.cashu.me": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.3",
+    "major_version": 2,
+    "created_at": "2025-11-27",
+    "updated_at": "2025-12-01"
+  },
+  "hzrd149/blob-drop": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-16",
+    "updated_at": "2025-08-31"
+  },
+  "leojay-net/SLPM-V2": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0",
+    "major_version": 1,
+    "created_at": "2025-12-03",
+    "updated_at": "2025-12-03"
+  },
+  "sats-app/link": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-06-26",
+    "updated_at": "2025-07-01"
+  },
+  "CashuMints-space/CashuMints-Telegram-bot": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.3",
+    "major_version": 1,
+    "created_at": "2024-05-17",
+    "updated_at": "2024-07-16"
+  },
+  "bilthon/satstreamer": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-05-16",
+    "updated_at": "2025-05-16"
+  },
+  "Wali05/shpstr-cptest": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-04-19",
+    "updated_at": "2025-04-23"
+  },
+  "DUCAT-UNIT/unit-cashu-mint": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0",
+    "major_version": 1,
+    "created_at": "2025-11-19",
+    "updated_at": "2026-01-27"
+  },
+  "sebdeveloper6952/featurestr-bountiestr": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.9.0",
+    "major_version": 0,
+    "created_at": "2024-01-25",
+    "updated_at": "2024-01-25"
+  },
+  "robwoodgate/cashu-cache": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.2",
+    "major_version": 2,
+    "created_at": "2025-05-14",
+    "updated_at": "2025-09-28"
+  },
+  "getAlby/Vortex": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2024-02-17",
+    "updated_at": "2025-05-19"
+  },
+  "gandlafbtc/nutstash-wallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.5.2",
+    "major_version": 2,
+    "created_at": "2023-01-30",
+    "updated_at": "2026-02-01"
+  },
+  "cashubtc/npubcash-server": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.2-rc.7",
+    "major_version": 0,
+    "created_at": "2024-01-13",
+    "updated_at": "2026-01-16"
+  },
+  "YakiHonne/web-app": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^3.2.2",
+    "major_version": 3,
+    "created_at": "2025-10-02",
+    "updated_at": "2026-01-30"
+  },
+  "Routstr/landingpage": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-04-14",
+    "updated_at": "2026-02-01"
+  },
+  "futurepaul/wally": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.1",
+    "major_version": 2,
+    "created_at": "2025-09-30",
+    "updated_at": "2025-10-07"
+  },
+  "gandlafbtc/headless-cashu": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "../cashu-js",
+    "major_version": null,
+    "created_at": "2023-06-29",
+    "updated_at": "2024-01-04"
+  },
+  "RUNSTR-LLC/RUNSTR-REWARDS": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.2.1",
+    "major_version": 1,
+    "created_at": "2025-09-20",
+    "updated_at": "2025-09-30"
+  },
+  "nogringo/donut": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-06-01",
+    "updated_at": "2025-09-01"
+  },
+  "Egge21M/chestnut": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-10-05",
+    "updated_at": "2025-09-01"
+  },
+  "gudnuf/cashu-gateway": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "3.0.0-alpha.5.1",
+    "major_version": 3,
+    "created_at": "2025-11-04",
+    "updated_at": "2025-11-26"
+  },
+  "RobotsBuildingEducation/progr.ai": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.5",
+    "major_version": 1,
+    "created_at": "2024-07-21",
+    "updated_at": "2024-10-07"
+  },
+  "cashubtc/cashu-redeem": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "3.1.1",
+    "major_version": 3,
+    "created_at": "2023-03-04",
+    "updated_at": "2026-01-28"
+  },
+  "Kelbie/402.markets": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-10-29",
+    "updated_at": "2025-10-29"
+  },
+  "Egge21M/pine-pos": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0-1",
+    "major_version": 1,
+    "created_at": "2024-08-23",
+    "updated_at": "2025-09-01"
+  },
+  "Muhangi2/paymentescrow": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-10",
+    "updated_at": "2025-04-23"
+  },
+  "humansinstitute/nctool": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-04-26",
+    "updated_at": "2025-09-26"
+  },
+  "EDOHWARES/micropay": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-10-01",
+    "updated_at": "2025-10-16"
+  },
+  "vstabile/loudr": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-04-19",
+    "updated_at": "2025-06-05"
+  },
+  "wavlake/poc-ecash": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0-1",
+    "major_version": 1,
+    "created_at": "2025-04-30",
+    "updated_at": "2025-04-30"
+  },
+  "gudnuf/cashu-address": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-09-16",
+    "updated_at": "2025-09-16"
+  },
+  "nostrplatform/primal": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "0.9.0",
+    "major_version": 0,
+    "created_at": "2025-03-31",
+    "updated_at": "2025-05-06"
+  },
+  "RobotsBuildingEducation/embedded-sunset": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.1",
+    "major_version": 2,
+    "created_at": "2024-10-06",
+    "updated_at": "2026-01-17"
+  },
+  "OpenTollGate/tollgate-captive-portal-site": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.2",
+    "major_version": 2,
+    "created_at": "2025-03-16",
+    "updated_at": "2025-12-28"
+  },
+  "PerceptLabs/mvmnt": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.8.1",
+    "major_version": 2,
+    "created_at": "2025-12-31",
+    "updated_at": "2025-12-31"
+  },
+  "dtdannen/strfry-ecash-plugin-dvm-demo": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-09-30",
+    "updated_at": "2025-10-31"
+  },
+  "gudnuf/cashu-proxy-tester": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc1",
+    "major_version": 2,
+    "created_at": "2025-02-14",
+    "updated_at": "2025-09-01"
+  },
+  "pablof7z/threads": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.2.1",
+    "major_version": 1,
+    "created_at": "2024-10-24",
+    "updated_at": "2024-11-04"
+  },
+  "abhijit9040/shopstr-compentency-test": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-03",
+    "updated_at": "2025-04-25"
+  },
+  "Routstr/otrta-client": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.1",
+    "major_version": 0,
+    "created_at": "2025-05-14",
+    "updated_at": "2026-01-27"
+  },
+  "RobotsBuildingEducation/civico": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "1.0.0-rc.5",
+    "major_version": 1,
+    "created_at": "2024-11-19",
+    "updated_at": "2025-09-04"
+  },
+  "DGEN-Technologies/dgen-server": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.2",
+    "major_version": 2,
+    "created_at": "2025-10-28",
+    "updated_at": "2026-01-27"
+  },
+  "Kelbie/bitchat.land": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.1",
+    "major_version": 2,
+    "created_at": "2025-08-24",
+    "updated_at": "2026-01-12"
+  },
+  "Chandan-codedidea/primal-web-app": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "0.9.0",
+    "major_version": 0,
+    "created_at": "2025-10-24",
+    "updated_at": "2025-10-30"
+  },
+  "gudnuf/nut-smasher": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.3",
+    "major_version": 1,
+    "created_at": "2024-04-10",
+    "updated_at": "2024-09-11"
+  },
+  "humansinstitute/beacon-signer": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.2",
+    "major_version": 2,
+    "created_at": "2025-06-01",
+    "updated_at": "2025-08-08"
+  },
+  "gandlafbtc/mint": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2024-12-28",
+    "updated_at": "2025-11-14"
+  },
+  "Egge21M/nutcoder": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-10-02",
+    "updated_at": "2025-09-01"
+  },
+  "Egge21M/nut-bridge": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.2.2",
+    "major_version": 2,
+    "created_at": "2025-03-17",
+    "updated_at": "2025-09-20"
+  },
+  "Egge21M/almnd": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-02-28",
+    "updated_at": "2025-09-01"
+  },
+  "robwoodgate/nostrly": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "file:../../../../../../assets/cashu-ts/",
+    "major_version": null,
+    "created_at": "2025-06-04",
+    "updated_at": "2025-11-24"
+  },
+  "cashubtc/coco": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "3.3.0",
+    "major_version": 3,
+    "created_at": "2025-08-22",
+    "updated_at": "2026-01-30"
+  },
+  "cashubtc/cashu.me": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.7.4",
+    "major_version": 2,
+    "created_at": "2023-02-27",
+    "updated_at": "2026-02-01"
+  },
+  "minibits-cash/minibits_wallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "3.3.0",
+    "major_version": 3,
+    "created_at": "2023-07-06",
+    "updated_at": "2026-02-02"
+  },
+  "purrgrammer/chachi": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2024-11-07",
+    "updated_at": "2026-01-11"
+  },
+  "abh3po/nrpc_server": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.3",
+    "major_version": 2,
+    "created_at": "2025-09-20",
+    "updated_at": "2025-11-10"
+  },
+  "BlakeKaufman/BlitzWalletSpark": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-22",
+    "updated_at": "2025-07-01"
+  },
+  "ngmisl/deez-cashus": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0",
+    "major_version": 1,
+    "created_at": "2025-11-10",
+    "updated_at": "2026-02-02"
+  },
+  "Pleb5/satshoot": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.8.1",
+    "major_version": 2,
+    "created_at": "2023-11-27",
+    "updated_at": "2026-01-24"
+  },
+  "drstrox/Shopstr-Payment-Escrow-Competency-Test": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.0-beta.3",
+    "major_version": 0,
+    "created_at": "2025-04-18",
+    "updated_at": "2025-04-18"
+  },
+  "getAlby/hub-android-experiment": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-03-29",
+    "updated_at": "2025-04-14"
+  },
+  "matijaoe/nutlet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.1.0",
+    "major_version": 2,
+    "created_at": "2024-12-13",
+    "updated_at": "2025-07-05"
+  },
+  "hzrd149/chessnut": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.1",
+    "major_version": 0,
+    "created_at": "2023-04-20",
+    "updated_at": "2025-10-06"
+  },
+  "CashuProjects/acorn-core": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.0-rc.6",
+    "major_version": 0,
+    "created_at": "2023-09-09",
+    "updated_at": "2024-08-18"
+  },
+  "Egge21M/tiny-pine": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.2.1-rc.0",
+    "major_version": 1,
+    "created_at": "2024-10-18",
+    "updated_at": "2024-10-29"
+  },
+  "HORNET-Storage/HORNETS-Relay-Panel": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2024-07-05",
+    "updated_at": "2026-01-07"
+  },
+  "gandlafbtc/cashu-browser-wallet": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.5.2",
+    "major_version": 2,
+    "created_at": "2025-04-15",
+    "updated_at": "2025-12-11"
+  },
+  "hzrd149/blossom-account-server": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.0.0-rc1",
+    "major_version": 2,
+    "created_at": "2024-11-03",
+    "updated_at": "2025-01-25"
+  },
+  "Egge21M/npubcash-umbrel": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.3",
+    "major_version": 1,
+    "created_at": "2024-06-23",
+    "updated_at": "2025-09-01"
+  },
+  "gudnuf/bolt12-covenant-zapper": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.0.0-rc.3",
+    "major_version": 1,
+    "created_at": "2024-05-03",
+    "updated_at": "2025-09-01"
+  },
+  "miladsoft/my-cashu-app": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2025-05-18",
+    "updated_at": "2025-05-18"
+  },
+  "dipunm/Nutshell": {
+    "status": "found_old",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^0.8.1",
+    "major_version": 0,
+    "created_at": "2023-10-23",
+    "updated_at": "2023-12-15"
+  },
+  "PerceptLabs/nostril": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "2.8.1",
+    "major_version": 2,
+    "created_at": "2026-01-02",
+    "updated_at": "2026-01-12"
+  },
+  "verse-pbc/groups_relay": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.5.2",
+    "major_version": 2,
+    "created_at": "2024-12-13",
+    "updated_at": "2026-01-23"
+  },
+  "Egge21M/chestnut-app": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc4",
+    "major_version": 2,
+    "created_at": "2024-11-26",
+    "updated_at": "2025-09-01"
+  },
+  "gudnuf/btcpp_2024_ecash_workshop": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-09-24",
+    "updated_at": "2024-10-12"
+  },
+  "cashubtc/npubcash-website": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-01-18",
+    "updated_at": "2025-09-01"
+  },
+  "Egge21M/grug402": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.3",
+    "major_version": 2,
+    "created_at": "2025-05-07",
+    "updated_at": "2026-01-05"
+  },
+  "shivansh-bhatnagar18/shopstr-compentency-test": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.4.1",
+    "major_version": 2,
+    "created_at": "2025-04-23",
+    "updated_at": "2025-04-23"
+  },
+  "iefanx/serverless-function": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^1.1.0",
+    "major_version": 1,
+    "created_at": "2024-12-05",
+    "updated_at": "2025-02-26"
+  },
+  "thebullishbitcoiner/bullishnuts": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0",
+    "major_version": 2,
+    "created_at": "2024-06-16",
+    "updated_at": "2026-01-01"
+  },
+  "gandlafbtc/gandlaf-homepage": {
+    "status": "found",
+    "package_name": "@cashu/cashu-ts",
+    "version_string": "^2.0.0-rc4",
+    "major_version": 2,
+    "created_at": "2023-02-09",
+    "updated_at": "2025-03-03"
+  }
+}
