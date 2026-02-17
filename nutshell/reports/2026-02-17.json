@@ -1,0 +1,110 @@
+{
+  "strategy_score": 2,
+  "execution_score": 7,
+  "community_score": 5,
+  "lowest_lens": "strategy",
+  "trends": {
+    "strategy": "↓",
+    "execution": "↑",
+    "community": "→"
+  },
+  "backlog_snapshot": {
+    "open_prs": 70,
+    "open_issues": 78,
+    "prs_over_365_days": 27,
+    "issues_over_365_days": 55,
+    "issues_over_730_days": 21,
+    "median_pr_age_days_est": 623,
+    "median_issue_age_days_est": 664
+  },
+  "risk_flags": [
+    "38% of open PRs are over 1 year old",
+    "70% of open issues are over 1 year old",
+    "27% of open issues are over 2 years old",
+    "Multiple 'ready for review' PRs older than 250 days",
+    "Several draft PRs older than 120 days",
+    "High likelihood that issue tracker reflects historical intent rather than active roadmap"
+  ],
+  "stalled_actions": {
+    "archive_prs_over_365_days": [
+      694,
+      680,
+      645,
+      628,
+      608,
+      599,
+      598,
+      576,
+      574,
+      565,
+      553,
+      541,
+      517,
+      491,
+      464,
+      463,
+      438,
+      406,
+      391,
+      335,
+      334,
+      315,
+      311,
+      306,
+      295,
+      287,
+      271
+    ],
+    "close_issues_over_730_days": [
+      52,
+      66,
+      102,
+      127,
+      128,
+      173,
+      207,
+      244,
+      257,
+      264,
+      272,
+      274,
+      281,
+      282,
+      286,
+      301,
+      304,
+      305,
+      314,
+      324,
+      327
+    ],
+    "decision_required_prs_180_365_days": [
+      765,
+      749,
+      744,
+      740,
+      737,
+      718,
+      712
+    ],
+    "decision_required_issues_180_365_days": [
+      771,
+      769,
+      768,
+      731,
+      726,
+      725,
+      717,
+      716,
+      710
+    ]
+  },
+  "structural_diagnosis": {
+    "primary_constraint": "Backlog entropy",
+    "secondary_constraint": "Review bottleneck on aging 'ready' PRs",
+    "system_pattern": "Historical accumulation outpaces closure rate, inflating perceived roadmap surface area",
+    "execution_signal": "Short-term execution appears healthy, but structural decay masks strategic clarity"
+  },
+  "recommendation": "Run a two-phase backlog reset: (1) close all issues >730 days and PRs >365 days within one week, (2) require milestone + owner assignment for any item >30 days old. Target 50–60% backlog reduction to restore median age below 180 days.",
+  "weekly_narrative": "Execution capability is not the limiting factor; structural backlog drift is. Approximately 38% of open PRs and 70% of open issues are over one year old, with more than a quarter of issues exceeding two years. This indicates the repository is functioning partially as an archive of historical intent rather than a tightly managed execution queue. Several PRs marked ready for review have aged past 250 days, signaling review prioritization gaps rather than contribution scarcity. The most immediate leverage is aggressive backlog pruning combined with strict milestone enforcement. Reducing surface area will materially improve strategic clarity, contributor confidence, and median cycle time without increasing maintainer workload."
+}
