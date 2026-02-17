@@ -1,0 +1,119 @@
+{
+  "keyword_map": {
+    "type:bug": [
+      "bug",
+      "fix",
+      "crash",
+      "error",
+      "broken",
+      "incorrect"
+    ],
+    "type:feature": [
+      "feat",
+      "feature",
+      "add",
+      "implement",
+      "new"
+    ],
+    "type:refactor": [
+      "refactor",
+      "refactoring",
+      "cleanup",
+      "restructure"
+    ],
+    "type:tests": [
+      "test",
+      "tests",
+      "testing",
+      "spec",
+      "coverage"
+    ],
+    "type:docs": [
+      "docs",
+      "documentation",
+      "readme",
+      "guide"
+    ],
+    "type:security": [
+      "security",
+      "vulnerability",
+      "auth",
+      "cve"
+    ],
+    "type:performance": [
+      "perf",
+      "performance",
+      "slow",
+      "optimize",
+      "speed"
+    ],
+    "type:question": [
+      "question",
+      "how to",
+      "help",
+      "confused"
+    ],
+    "scope:mint": [
+      "mint",
+      "cashu",
+      "nuts"
+    ],
+    "scope:wallet": [
+      "wallet",
+      "client",
+      "ui",
+      "gui"
+    ],
+    "scope:protocol": [
+      "protocol",
+      "nut",
+      "specification",
+      "rfc"
+    ],
+    "scope:tests": [
+      "test",
+      "ci",
+      "github actions",
+      "pytest"
+    ],
+    "scope:ci-cd": [
+      "ci",
+      "cd",
+      "build",
+      "release",
+      "deploy"
+    ],
+    "scope:docs": [
+      "docs",
+      "readme",
+      "wiki"
+    ],
+    "priority:critical": [
+      "critical",
+      "urgent",
+      "hotfix",
+      "security",
+      "data loss"
+    ],
+    "priority:high": [
+      "high",
+      "important",
+      "blocker",
+      "milestone"
+    ],
+    "priority:low": [
+      "low",
+      "minor",
+      "cleanup",
+      "nice-to-have",
+      "chore"
+    ]
+  },
+  "status_rules": {
+    "draft_label": "status:draft",
+    "needs_triage_label": "status:needs-triage",
+    "stale_threshold_days": 365,
+    "aging_threshold_days": 180,
+    "tbd_label": "scope:tbd"
+  }
+}
